@@ -1,0 +1,84 @@
+l
+]
+2{}:{alertname="yangjian_security_MemoryUsageHigh"}
+Molenemail*šõºÍÒØáI:
+”‰¶–¿˜·ªš¤ÕÍÒØáI 
+
+S{}/{security_receiver="MolenZhang"}:{alertname="yangjian_security_MemoryUsageHigh"}
+security_MolenZhangwebhook*÷íºÍÜÒ­2
+ü°™¶êÂß˜ò÷œÕÍÜÒ­œ
+‹
+P{}/{security_receiver="MolenZhang"}:{alertname="yangjian_security_CPUUsageHigh"}
+security_MolenZhangwebhook*—íºÍäë¡Ü:	Ûñ…¿ìƒí—œÕÍäë¡Ü 
+
+Q{}/{node_exporter_receiver="MolenZhang"}:{alertname="default_node_exporter_Down"}!
+node_exporter_MolenZhangemail*„ÌºÍ½´¸”:	õ±Â±ãò·?„ûÔÍ½´¸”
+
+K{}/{security_receiver="Mr.Hu"}:{alertname="yangjian_security_CPUUsageHigh"}
+security_Mr.Huemail*Í°¸Í¸Şs2
+Ÿ„º¬’—„ÈÈÍßÒÍ¸Şs³
+¢
+!{}:{alertname="NodeCPUUsageHigh"}
+Molenemail*‰ı·ÍÛßµ¼:_ÍŠ÷ŒÆÍİòw» ê¯çà¤ìôâõÒ¾ï­™»®Ü‹¢‰¥½Ç‡¾ñîğÍ‚£¾ˆ÷Ã´ÿƒáÙ\›Ù”Ã‡œØƒJÅîÈ²¾Ñ‰“ÎĞ†²À±­ÕwØèå”¬ó×;‰¬ÒÍÛßµ¼Ş
+Í
+?{}/{k8sCluster_receiver="Molen"}:{alertname="NodeCPUUsageHigh"}
+k8sCluster_Molenwebhook*ôü·Í…åé©:_Øèå”¬ó×;›Ù”Ã‡œØƒJÅîÈ²¾Ñ‰“ˆ÷Ã´ÿƒáÙ\» ê¯çà¤ìôâõÒ¾ï­™ÎĞ†²À±­ÕwÍŠ÷ŒÆÍİòw‡¾ñîğÍ‚£¾»®Ü‹¢‰¥½Çô«ÒÍ…åé©•
+„
+K{}/{node_exporter_receiver="MrHu"}:{alertname="default_node_exporter_Down"}
+node_exporter_MrHuemail*æÌºÍ¼ë§Ò:
+èÎÈŸùï¥æûÔÍ¼ë§Ò’
+
+M{}/{security_receiver="MrHu"}:{alertname="yangjian_security_MemoryUsageHigh"}
+security_MrHuemail*”·¸ÍŠØ‚º2
+”‰¶–¿˜·ª”æÒÍŠØ‚º”
+ƒ
+M{}/{security_receiver="MrHu"}:{alertname="yangjian_security_MemoryUsageHigh"}
+security_MrHuwebhook*«ïºÍ©É´Ï2
+”‰¶–¿˜·ª«ÕÍ©É´Ï_
+O
+${}:{alertname="NodeMemoryUsageHigh"}
+Molenemail*ı›¸Íİóšß:	äÙƒÔÂçøıÊÒÍİóšßÜ
+Ë
+?{}/{k8sCluster_receiver="Molen"}:{alertname="NodeCPUUsageHigh"}
+k8sCluster_Molenemail*çé´Í„€·Š:_‡¾ñîğÍ‚£¾›Ù”Ã‡œØƒJôâõÒ¾ï­™ÎĞ†²À±­Õw» ê¯çà¤ìØèå”¬ó×;»®Ü‹¢‰¥½ÇÅîÈ²¾Ñ‰“ˆ÷Ã´ÿƒáÙ\ÍŠ÷ŒÆÍİòwç˜ÏÍ„€·Šg
+W
++{}:{alertname="default_node_exporter_Down"}
+Molenemail*ˆ¿ºÍØ’ûÓ2
+èÎÈŸùï¥ˆîÔÍØ’ûÓt
+d
+/{}:{alertname="yangjian_security_CPUUsageHigh"}
+Molenemail*¥ğºÍõßšÊ:ô‰™Ãıô‘ÛÛñ…¿ìƒí¥ŸÕÍõßšÊ‰
+z
+B{}/{k8sCluster_receiver="Mr.Hu"}:{alertname="NodeMemoryUsageHigh"}
+k8sCluster_Mr.Huwebhook*˜‡¸ÍàÄÙs2
+ç°Û½×ò±ƒ˜¶ÒÍàÄÙs†
+w
+A{}/{k8sCluster_receiver="MrHu"}:{alertname="NodeMemoryUsageHigh"}
+k8sCluster_MrHuwebhook*Ì’¸Íéî¼2	äÙƒÔÂçøÌÁÒÍéî¼‘
+€
+J{}/{security_receiver="MrHu"}:{alertname="yangjian_security_CPUUsageHigh"}
+security_MrHuwebhook*ĞîºÍ»éÊÜ2
+ô‰™Ãıô‘ÛĞÕÍ»éÊÜæ
+Õ
+B{}/{k8sCluster_receiver="Mr.Zhang"}:{alertname="NodeCPUUsageHigh"}
+k8sCluster_Mr.Zhangwebhook*ö´Í’ä¥ô2a£Ş½“¹½˜Ûâæùª¸µ ­ĞÃÛáÂ×…‘ Ø†İ´æÛÕ•‡àõà¾÷úËÚĞÙı½ĞıÂĞß¦Ü›ŸÅÒ’ğó‹§›´“ç ¨¬“ÅËºú×³ÜÄ¸”„®´×«Ë¥ÏÍ’ä¥ôš
+‰
+P{}/{security_receiver="MolenZhang"}:{alertname="yangjian_security_CPUUsageHigh"}
+security_MolenZhangemail*”Ş¿ÍİÀ™Å2	Ûñ…¿ìƒí”ÚÍİÀ™Å
+
+S{}/{security_receiver="MolenZhang"}:{alertname="yangjian_security_MemoryUsageHigh"}
+security_MolenZhangemail*ØâºÍ€Ë–”2
+ü°™¶êÂß˜òØ‘ÕÍ€Ë–”
+
+E{}/{k8sCluster_receiver="Mr.Zhang"}:{alertname="NodeMemoryUsageHigh"}
+k8sCluster_Mr.Zhangemail*Ğë´ÍÔ‰Ó‹2
+Ûï´äÀ•ìå‹ĞšÏÍÔ‰Ó‹ä
+Ó
+B{}/{k8sCluster_receiver="Mr.Zhang"}:{alertname="NodeCPUUsageHigh"}
+k8sCluster_Mr.Zhangemail*õê´Í»™ˆ§:a¬“ÅËºú×³Ü£Ş½“¹½˜Ûâæùª¸µ ­Ğ†İ´æÛÕ•‡àó‹§›´“ç ¨õà¾÷úËÚĞÙı½ĞıÂĞßÃÛáÂ×…‘ Ø¦Ü›ŸÅÒ’ğÄ¸”„®´×«Ëõ™ÏÍ»™ˆ§†
+w
+B{}/{k8sCluster_receiver="Molen"}:{alertname="NodeMemoryUsageHigh"}
+k8sCluster_Molenemail*Äê´Í¹ßg2	Îö÷ë‘œŸÏ[Ä™ÏÍ¹ßgŠ
+z
+B{}/{k8sCluster_receiver="Molen"}:{alertname="NodeMemoryUsageHigh"}
+k8sCluster_Molenwebhook*ôü·ÍÏ¶æ©:	Îö÷ë‘œŸÏ[ô«ÒÍÏ¶æ©
